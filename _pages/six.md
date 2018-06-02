@@ -48,7 +48,7 @@ Prices may be subject to changes by the Park Authority.
 
 
 
-# Our USD Account:  
+#### Our USD Account:  
 EQUITY BANK R.D.Congo  
 Swift : PRCBCDKI  
 Account Holder: GOMBANIRO TEMBEYA PHILIPPE  
